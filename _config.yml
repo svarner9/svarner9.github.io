@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samuel Varner / Ph.D. Candidate at Caltech"
 title_separator          : "-"
 name                     : &name "Samuel Varner"
-description              : &description "I am a 3rd year chemical engineering Ph.D. student at Caltech and a 2nd year DOE CSGF fellow."
+description              : &description "descript"
 url                      : https://svarner9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "svarner9/svarner9.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Samuel Varner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "I am a 3rd year chemical engineering Ph.D. student at Caltech and a 2nd year DOE CSGF fellow."
+  location         : "Pasadena, CA"
+  employer         : "Caltech & DOE CSGF"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=oXGG_XoAAAAJ&hl=en"
+  email            : "svarner@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "svarner9"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "www.linkedin.com/in/samuelvarner"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1365-1027"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Samuel_Varner_9"
   vine             :
   weibo            :
   xing             :
